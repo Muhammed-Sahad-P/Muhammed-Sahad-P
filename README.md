@@ -31,6 +31,24 @@
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
 
 </div>
+<br>
+<div>
+  <h2>📚 Projects</h2>
+  <ul>
+    <li>
+      <a href="https://doque.vercel.app/" target="_blank" rel="noopener noreferrer">
+        DOQUE
+      </a> - A comprehensive Task management application built in NextJs and TypeScript
+    </li>
+    <li>
+      <a href="https://footfusion.vercel.app/" target="_blank" rel="noopener noreferrer">
+        FootFusion
+      </a> - E-Commerce Application
+    </li>
+  </ul>
+</div>
+<br>
+
   <br>
 
   <h3> 🤝🏻 &nbsp;Connect with Me </h3>
