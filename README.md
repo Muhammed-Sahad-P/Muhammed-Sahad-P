@@ -41,6 +41,11 @@
       </a> - A comprehensive Task management application built in NextJs and TypeScript
     </li>
     <li>
+      <a href="https://pinterest-clone-sahad.vercel.app/" target="_blank" rel="noopener noreferrer">
+        Pinterest clone
+      </a> - A social network that allows users to share and discover visual content
+    </li>
+    <li>
       <a href="https://footfusion.vercel.app/" target="_blank" rel="noopener noreferrer">
         FootFusion
       </a> - E-Commerce Application
