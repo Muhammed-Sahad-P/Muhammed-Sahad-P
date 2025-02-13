@@ -46,6 +46,11 @@
       </a> - A social network that allows users to share and discover visual content
     </li>
     <li>
+      <a href="https://expense-tracker-sahad.vercel.app/" target="_blank" rel="noopener noreferrer">
+        FinTrack
+      </a> - A full-featured expense tracking app with authentication, transaction history, and insightful analytics. 
+    </li>
+    <li>
       <a href="https://footfusion.vercel.app/" target="_blank" rel="noopener noreferrer">
         FootFusion
       </a> - E-Commerce Application
