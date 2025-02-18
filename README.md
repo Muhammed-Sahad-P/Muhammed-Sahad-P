@@ -5,7 +5,7 @@
 <br>
 <h3> 💻 &nbsp;About Me </h3>
 
--    👨‍💻 I’m currently Working as an intern
+-    👨‍💻 I’m a Full Stack Developer.
 -    🌱 I’m currently learning new tech stacks.
 -    🔮 My goal is to contribute to major open-source projects.
 
