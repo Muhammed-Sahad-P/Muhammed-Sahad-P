@@ -1,15 +1,22 @@
 # Hello 👋, I'm Muhammed Sahad
 
-## I'm an aspiring Full Stack Developer with a passion for creating efficient and scalable web applications.
+## Full Stack Developer · Python/Django & MERN · Building production SaaS at VorreiX.
 
-<br>
-<h3> 💻 &nbsp;About Me </h3>
+<h3>💻 About Me</h3>
 
--    👨‍💻 I’m a Full Stack Developer.
--    🌱 I’m currently learning new tech stacks.
--    🔮 My goal is to contribute to major open-source projects.
+- 🌍 Self-taught Full Stack Developer from Kerala, India.
+- 💼 Associate Software Engineer at **VorreiX**.
+- 🚀 Building **Vorrei.io**, a production-grade multi-tenant SaaS platform for stores and restaurants.
+- 🐍 Developing scalable backend services with **Python, Django & Django REST Framework**.
+- ⚡ Implementing asynchronous workflows using **Celery** and **Redis**.
+- ⚛️ Building responsive, modern UIs with **Next.js, TypeScript & Tailwind CSS**.
+- 🗄️ Working with **PostgreSQL**, REST APIs, and scalable system architecture.
+- 🐳 Deploying and maintaining applications using **Docker**, **Linux**, **Nginx**, and **Hetzner Cloud**.
+- 📚 Passionate about writing clean, maintainable code and continuously learning new technologies.
 
-<br>
+<h3> 💼 &nbsp;Currently Working at </h3>
+
+🏢 VorreiX — Associate Software Engineer  📍 Remote, Kerala, India 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
