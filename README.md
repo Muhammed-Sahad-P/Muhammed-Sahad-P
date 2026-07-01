@@ -43,8 +43,13 @@
 <div>
   <h2>📚 Projects</h2>
   <ul>
+   <li>
+      <a href="https://vorrei.io/" target="_blank" rel="noopener noreferrer">
+        Vorrei.io
+      </a> – A multi-tenant SaaS platform for restaurants and retail businesses, built with Django, Next.js, PostgreSQL, and Docker.
+    </li>
     <li>
-      <a href="https://doque.vercel.app/" target="_blank" rel="noopener noreferrer">
+     <a href="https://doque.vercel.app/" target="_blank" rel="noopener noreferrer">
         DOQUE
       </a> - A comprehensive Task management application built in NextJs and TypeScript
     </li>
