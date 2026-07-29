@@ -1,24 +1,27 @@
 # Hello 👋, I'm Muhammed Sahad
 
-## Full Stack Developer · Python/Django & MERN · Building production SaaS at VorreiX.
+## Full Stack Software Engineer | React • Next.js • Node.js • Python • Django
+
+Building scalable SaaS applications, AI-powered solutions, and modern web experiences.
 
 <h3>💻 About Me</h3>
 
-- 🌍 Self-taught Full Stack Developer from Kerala, India.
 - 💼 Associate Software Engineer at **VorreiX**.
-- 🚀 Building **Vorrei.io**, a production-grade multi-tenant SaaS platform for stores and restaurants.
-- 🐍 Developing scalable backend services with **Python, Django & Django REST Framework**.
-- ⚡ Implementing asynchronous workflows using **Celery** and **Redis**.
-- ⚛️ Building responsive, modern UIs with **Next.js, TypeScript & Tailwind CSS**.
-- 🗄️ Working with **PostgreSQL**, REST APIs, and scalable system architecture.
-- 🐳 Deploying and maintaining applications using **Docker**, **Linux**, **Nginx**, and **Hetzner Cloud**.
-- 📚 Passionate about writing clean, maintainable code and continuously learning new technologies.
+- 🚀 Building **Vorrei.io**, a production-grade **multi-tenant SaaS platform** for local businesses.
+- ⚛️ Developing modern web applications using **React, Next.js, TypeScript, and Tailwind CSS**.
+- 🐍 Building scalable backend services with **Python, Django, and Django REST Framework**.
+- 🏗️ Designing **REST APIs**, multi-tenant architectures, and scalable backend systems.
+- ⚡ Implementing asynchronous workflows with **Celery** and **Redis**.
+- 🗄️ Working with **PostgreSQL**, **MongoDB**, and scalable database design.
+- 🤖 Building AI-powered features using **Google Gemini** and **Model Context Protocol (MCP)**.
+- 🐳 Deploying and maintaining applications using **Docker**, **Linux**, **Nginx**, and cloud infrastructure.
+- 📚 Passionate about building clean, maintainable software and continuously learning new technologies.
 
-<h3> 💼 &nbsp;Currently Working at </h3>
+<h3>💼 Currently Working At</h3>
 
-🏢 VorreiX — Associate Software Engineer  📍 Remote, Kerala, India 
+🏢 **VorreiX** — Associate Software Engineer  📍 Remote, Kerala, India
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3>🛠 Tech Stack</h3>
 
 <div >
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
