@@ -1,25 +1,23 @@
 # Hello 👋, I'm Muhammed Sahad
 
-## Full Stack Software Engineer | React • Next.js • Node.js • Python • Django
+## Full Stack Developer | React • Next.js • Node.js • Python • Django
 
 Building scalable SaaS applications, AI-powered solutions, and modern web experiences.
 
 <h3>💻 About Me</h3>
 
-- 💼 Associate Software Engineer at **VorreiX**.
-- 🚀 Building **Vorrei.io**, a production-grade **multi-tenant SaaS platform** for local businesses.
+- 💼 Full Stack Developer at **Fedible**.
 - ⚛️ Developing modern web applications using **React, Next.js, TypeScript, and Tailwind CSS**.
 - 🐍 Building scalable backend services with **Python, Django, and Django REST Framework**.
 - 🏗️ Designing **REST APIs**, multi-tenant architectures, and scalable backend systems.
 - ⚡ Implementing asynchronous workflows with **Celery** and **Redis**.
 - 🗄️ Working with **PostgreSQL**, **MongoDB**, and scalable database design.
-- 🤖 Building AI-powered features using **Google Gemini** and **Model Context Protocol (MCP)**.
 - 🐳 Deploying and maintaining applications using **Docker**, **Linux**, **Nginx**, and cloud infrastructure.
 - 📚 Passionate about building clean, maintainable software and continuously learning new technologies.
 
 <h3>💼 Currently Working At</h3>
 
-🏢 **VorreiX** — Associate Software Engineer  📍 Remote, Kerala, India
+🏢 **Fedible** — Full Stack Developer  📍 Bengaluru, Karnataka, India
 
 <h3>🛠 Tech Stack</h3>
 
